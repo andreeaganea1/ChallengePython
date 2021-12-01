@@ -2,7 +2,7 @@ def quadratic_equation_solver_app():
     import cmath
     import math
 
-    print("\tWelcome to the Quadratic Equation Solver App\n")
+    print("\t\tWelcome to the Quadratic Equation Solver App\n")
     print("\tA quadratic equation is of the form ax² + bx + c = 0")
     print("\tYour solution can be real or complex numbers.")
     print("\tA complex number hos two parts: a + bj")

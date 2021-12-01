@@ -1,5 +1,5 @@
 def vote_registration_app():
-    print(f"\tWelcome to the Voter Registration App")
+    print(f"\t\tWelcome to the Voter Registration App")
 
     name = input(f"\tPlease enter your name:\t")
     age = int(input(f"\tPlease enter your age:\t"))

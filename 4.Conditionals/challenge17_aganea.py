@@ -1,6 +1,6 @@
 def coin_toss_app():
     import random
-    print(f"\tWelcome to the Coin Toss App\n")
+    print(f"\t\tWelcome to the Coin Toss App\n")
     print(f"\tI will flip a coin a set number of times")
 
     flips = int(input(f"\tHow many times would you like me to flip the coin:\t"))

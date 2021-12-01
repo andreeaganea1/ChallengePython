@@ -1,5 +1,5 @@
 def binary_hexadecimal_converter_app():
-    print("\tWelcome to the Binary/Hexadecimal app!")
+    print("\t\tWelcome to the Binary/Hexadecimal app!")
     nums = input("\tCompute binary and hexadecimal values up to the following decimal number:\t")
     print("\tGenerating lists...complete!\n")
     print("\tUsing slices, we will now show a portion of each list.")

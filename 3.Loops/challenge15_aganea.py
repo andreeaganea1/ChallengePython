@@ -1,7 +1,7 @@
 
 def grade_point_average_calculator_app():
     import statistics as stats
-    print(f"\tWelcome to the Average Calculator App\n")
+    print(f"\t\tWelcome to the Average Calculator App\n")
 
     name = input(f"\tWhat is your name:\t").title()
     num_of_grades = int(input(f"\tHow many grades would you like to enter:\t"))
@@ -26,7 +26,7 @@ def grade_point_average_calculator_app():
 
     next_grade = int(input(f"\tWhat is your desired average:\t"))
 
-    print(f"\tGood luck {name}")
+    print(f"\tGood luck {name}!")
 
 
 grade_point_average_calculator_app()

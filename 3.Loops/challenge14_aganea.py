@@ -1,5 +1,5 @@
 def fibonacci_calculator_app():
-    print(f"\tWelcome to the Fibonacci Calculator App\n")
+    print(f"\t\tWelcome to the Fibonacci Calculator App\n")
     fibo = int(input(f"\tHow many digits of the Fibonacci Sequence would you like to compute:\t"))
     print(f"\n\tThe first {fibo} numbers of the fibonacci sequence are:\n")
 

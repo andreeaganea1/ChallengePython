@@ -1,7 +1,7 @@
 def shipping_accounts_program():
-    names = ["rodri","juan","pablo","pedro","lilo"]
+    names = ["leoncito","rodrifu","raulin","lunat_12","andganea"]
 
-    print(f"\n\tWelcome to the Shipping Accounts Program\n")
+    print(f"\n\t\tWelcome to the Shipping Accounts Program\n")
 
     name = input(f"\tHello, what is your username:\t").lower()
 

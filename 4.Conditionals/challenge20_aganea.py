@@ -51,3 +51,4 @@ def rock_paper_scissors_app():
                     print(f"\tRock smash scissors!")
                     computer_score += 1
                     winner = "computer"
+rock_paper_scissors_app()
