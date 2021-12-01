@@ -1,7 +1,4 @@
-#Strings
-#Ejercicio 1:
-
-print("Welcome to letter counter app!")
+print("\tWelcome to letter counter app!")
 name = input("Whats your name? ").title()
 print(f"Hello {name}! \nI will count the number of times that a specific letter occurs in your message.")
 

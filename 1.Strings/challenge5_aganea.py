@@ -1,0 +1,32 @@
+print("Welcome to the Multiplication/Exponential Table App.")
+name = input("What is your name? ")
+number = float(input("What number would you like to work with? "))
+
+print(f"\nMultiplicacion Table For {number}")
+
+print(f"{number} x 1 = {round(number*1 , 4)}")
+print(f"{number} x 2 = {round(number*2 , 4)}")
+print(f"{number} x 3 = {round(number*3 , 4)}")
+print(f"{number} x 4 = {round(number*4 , 4)}")
+print(f"{number} x 5 = {round(number*5 , 4)}")
+print(f"{number} x 6 = {round(number*6 , 4)}")
+print(f"{number} x 7 = {round(number*7 , 4)}")
+print(f"{number} x 8 = {round(number*8 , 4)}")
+print(f"{number} x 9 = {round(number*9 , 4)}")
+
+print(f"\nExponent Table For {number}")
+
+print(f"{number}¹ = {round(number**1 , 4)}")
+print(f"{number}² = {round(number**2 , 4)}")
+print(f"{number}³ = {round(number**3 , 4)}")
+print(f"{number}⁴ = {round(number**4 , 4)}")
+print(f"{number}⁵ = {round(number**5 , 4)}")
+print(f"{number}⁶ = {round(number**6 , 4)}")
+print(f"{number}⁷ = {round(number**7 , 4)}")
+print(f"{number}⁸ = {round(number**8 , 4)}")
+print(f"{number}⁹ = {round(number**9 , 4)}")
+
+print(f"\n{name.title()} Math is cool!")
+print(f"\t{name.lower()} math is cool!")
+print(f"\t\t{name.title()} Math Is Cool!")
+print(f"\t\t\t{name.upper()} MATH IS COOL!")
